@@ -3,7 +3,7 @@ import React from 'react'
 export default function AboutComponent() {
   return (
     <div>
-     Know about GFG
+     Know about GFG fdf
     </div>
   )
 }
